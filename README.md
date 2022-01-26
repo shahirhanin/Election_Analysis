@@ -4,7 +4,7 @@ This project required a python script to count ballots for election results. The
 ## Election Results
 
 Total Votes: 369,711
-
+--------------------
 
 County Votes:
 Jefferson: 10.5% (38,855)
